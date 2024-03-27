@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://backend.kunalsingla-9630.workers.dev";
